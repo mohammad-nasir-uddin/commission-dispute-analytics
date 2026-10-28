@@ -1,0 +1,41 @@
+dealer_id,dealer_name,region,tier,tier_multiplier
+D001,Dealer 001 Wireless,GTA West,SILVER,1.0
+D002,Dealer 002 Wireless,GTA East,SILVER,1.0
+D003,Dealer 003 Wireless,East,BRONZE,0.95
+D004,Dealer 004 Wireless,Southwest,BRONZE,0.95
+D005,Dealer 005 Wireless,North,SILVER,1.0
+D006,Dealer 006 Wireless,GTA West,SILVER,1.0
+D007,Dealer 007 Wireless,GTA East,GOLD,1.1
+D008,Dealer 008 Wireless,East,SILVER,1.0
+D009,Dealer 009 Wireless,Southwest,SILVER,1.0
+D010,Dealer 010 Wireless,North,BRONZE,0.95
+D011,Dealer 011 Wireless,GTA West,BRONZE,0.95
+D012,Dealer 012 Wireless,GTA East,SILVER,1.0
+D013,Dealer 013 Wireless,East,BRONZE,0.95
+D014,Dealer 014 Wireless,Southwest,GOLD,1.1
+D015,Dealer 015 Wireless,North,BRONZE,0.95
+D016,Dealer 016 Wireless,GTA West,BRONZE,0.95
+D017,Dealer 017 Wireless,GTA East,SILVER,1.0
+D018,Dealer 018 Wireless,East,SILVER,1.0
+D019,Dealer 019 Wireless,Southwest,BRONZE,0.95
+D020,Dealer 020 Wireless,North,BRONZE,0.95
+D021,Dealer 021 Wireless,GTA West,BRONZE,0.95
+D022,Dealer 022 Wireless,GTA East,SILVER,1.0
+D023,Dealer 023 Wireless,East,GOLD,1.1
+D024,Dealer 024 Wireless,Southwest,GOLD,1.1
+D025,Dealer 025 Wireless,North,SILVER,1.0
+D026,Dealer 026 Wireless,GTA West,SILVER,1.0
+D027,Dealer 027 Wireless,GTA East,SILVER,1.0
+D028,Dealer 028 Wireless,East,SILVER,1.0
+D029,Dealer 029 Wireless,Southwest,GOLD,1.1
+D030,Dealer 030 Wireless,North,GOLD,1.1
+D031,Dealer 031 Wireless,GTA West,BRONZE,0.95
+D032,Dealer 032 Wireless,GTA East,SILVER,1.0
+D033,Dealer 033 Wireless,East,BRONZE,0.95
+D034,Dealer 034 Wireless,Southwest,SILVER,1.0
+D035,Dealer 035 Wireless,North,SILVER,1.0
+D036,Dealer 036 Wireless,GTA West,SILVER,1.0
+D037,Dealer 037 Wireless,GTA East,BRONZE,0.95
+D038,Dealer 038 Wireless,East,SILVER,1.0
+D039,Dealer 039 Wireless,Southwest,BRONZE,0.95
+D040,Dealer 040 Wireless,North,SILVER,1.0

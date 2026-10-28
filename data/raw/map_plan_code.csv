@@ -1,0 +1,5 @@
+carrier_plan_code,rate_plan
+ESS,ESSENTIAL
+PLS,PLUS
+PRM,PREMIUM
+-,ALL
